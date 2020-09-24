@@ -1,0 +1,25 @@
+{
+	"name": "pro-settings-http-request",
+	"version": "1.0.1",
+	"description": "'by AshenOneOrz'",
+	"main": "request.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrZoe/pro-settings-http-request.git"
+	},
+	"devDependencies": {
+		"axios": "^0.18.0"
+	},
+	"keywords": [
+		"httpRequest"
+	],
+	"author": "AshenOne",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MrZoe/pro-settings-http-request/issues"
+	},
+	"homepage": "https://github.com/MrZoe/pro-settings-http-request#readme"
+}
