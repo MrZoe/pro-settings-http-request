@@ -5,7 +5,7 @@ import { getConsolePagePlayersData } from './console/all'
 import { postAddPlayerRequest } from './console/add'
 import { postDeletePlayerRequest } from './console/delete'
 import { queryPlayerById, postUpdatePlayerDataRequest } from './console/update'
-
+import Notice from './notice'
 const API = {
     getHomeData,
     getProPagePlayerData,
@@ -15,6 +15,7 @@ const API = {
     postDeletePlayerRequest,
     queryPlayerById,
     postUpdatePlayerDataRequest,
+    Notice,
 }
 
 

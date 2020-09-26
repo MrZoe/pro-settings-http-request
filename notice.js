@@ -21,8 +21,9 @@ const message = (vm, data) => {
     vm.$message(data);
 }
 
-
-export const Notice = {
+const Notice = {
     notification,
     message,
 }
+
+export default Notice

@@ -1,5 +1,5 @@
 import Axios from 'axios'
-import { Notice } from './notice'
+import Notice from './notice'
 // 返回错误的处理, vm 是发送请求的 vue 实例
 const recordErr = (error, vm, mode = 'post') => {
 
