@@ -1,11 +1,9 @@
 import Notice from './notice'
 import { getHttp, postHttp } from '../httpRequest'
 
-const Request = {
+export default {
     postHttp,
     getHttp,
     Notice,
 }
 
-
-export default Request
