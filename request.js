@@ -1,7 +1,7 @@
 import Notice from './notice'
-import { getHttp, postHttp } from '../httpRequest'
+import { getHttp, postHttp } from './httpRequest'
 
-export default {
+export {
     postHttp,
     getHttp,
     Notice,
